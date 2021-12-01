@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body {
+    background: linear-gradient(90deg, #790956 0%, #790956 35%, #790956 100%);
+}
+
+#botao-adicionar {
+    background: #790956;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    padding: 0 15px;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+    float: right;
+    font-weight: bold;
+}
+#botao-adicionar:hover {
+    opacity: 0.8;
+}
+#botao-adicionar:active {
+    opacity: 0.6;
+}
+.container {
+    background: white;
+    max-width: 541px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px 20px;
+    
+}
+#input-principal {
+    width: 342px;
+    height: 40px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 15px;
+
+} 
+#tarefas {
+    width: 100%;
+    list-style: none;
+    margin-top: 60px;
+}
+
+.item-tarefa {
+    background: #f2f2f2;
+    border-radius: 5px;
+    box-shadow: 1px 4px 10px #808080;
+    border-radius: 5px;
+    padding: 20px 45px;
+    cursor: pointer;
+    position: relative;
+    margin-top: 30px;
+
+}
+.nome-tarefa {
+    color: #000000;
+    font-size: 15px;
+}
+.botao-delete {
+    border: none;
+    background: transparent;
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 40px;
+    cursor: pointer; 
+    opacity: 0; 
+    transition: opacity 0,5s ease-in-out;  
+
+}
+.fa-trash {
+    color: red;
+}
+.botao-foguete {
+    border: none;
+    background: transparent;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 40px;
+    cursor: pointer; 
+    opacity: 0;
+    transition: opacity 0,5s ease-in-out;
+
+}
+.fa-rocket {
+    color:purple
+}
+.item-tarefa:hover .botao-delete {
+    opacity: 1;
+}
+.item-tarefa:hover .botao-foguete {
+    opacity: 1;
+}
+.concluido{ 
+    background-color: #d4f88d;
+    text-decoration: line-through;
+}
