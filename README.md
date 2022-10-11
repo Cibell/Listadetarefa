@@ -26,6 +26,20 @@ https://code.visualstudio.com/
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 🖇️ Colaborador
+
+<table>
+  <tr>
+    <td align="right">
+      <a href="https://github.com/rodolfomori" target="blank">
+        <img src="https://user-images.githubusercontent.com/95030203/155012879-fc6991b4-5357-4675-9ef5-1dd56f795265.png" width="100px;" alt="Foto do Rodolfo Mori"/><br>
+        <sub>
+          <b>Rodolfo Mori</b>
+        </sub>
+      </a>
+    </td>
+    <table/>
   
 
 # :pencil: Autor
