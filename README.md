@@ -45,7 +45,7 @@ https://code.visualstudio.com/
 # :pencil: Autor
 <img src="https://github.com/Cibell/interface-burguer-order/blob/master/src/assets/Cibele%20desenvolvedora%20front-end.jpeg?raw=true"  width="100px;">
 
-# :closed_book: Licença
+# :closed_book: Licença <br>
 
 Lançado em 2021. Este projeto está sob a ![APM](https://img.shields.io/apm/l/dev)<br>
 Made with love by [Cibele Cordeiro](https://github.com/Cibell) 💜🚀
