@@ -21,26 +21,11 @@ Para download do VS Code clique no link abaixo:
 https://code.visualstudio.com/
 
 # :computer: Tecnologias
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+- [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 🖇️ Colaborador
-
-<table>
-  <tr>
-    <td align="right">
-      <a href="https://github.com/rodolfomori" target="blank">
-        <img src="https://user-images.githubusercontent.com/95030203/155012879-fc6991b4-5357-4675-9ef5-1dd56f795265.png" width="100px;" alt="Foto do Rodolfo Mori"/><br>
-        <sub>
-          <b>Rodolfo Mori</b>
-        </sub>
-      </a>
-    </td>
-    <table/>
-  
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 # :pencil: Autor
 <img src="https://github.com/Cibell/interface-burguer-order/blob/master/src/assets/Cibele%20desenvolvedora%20front-end.jpeg?raw=true"  width="100px;">
